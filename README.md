@@ -52,5 +52,8 @@ This is a Twitter Clone built using the MERN (MongoDB, Express, React, Node.js) 
 - MongoDB installed locally or a MongoDB Atlas account
 
 ### Installation
-
-1.
+use Node V16 LTS
+1. Install the dependencies
+2. Go to the backend folder and create and .env file and put down the required env variables
+3. type npm start in the backend
+4. type npm start in the frontend
