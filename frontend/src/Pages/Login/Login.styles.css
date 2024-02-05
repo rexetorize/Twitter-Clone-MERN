@@ -1,0 +1,39 @@
+.login-left-img{
+    width: 50%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.auth{
+    display: flex;
+     font-family: 'Prompt', sans-serif;
+     font-weight: 300;
+    align-items: center;
+    height: 40px;
+    
+    border: 1px solid rgba(149, 148, 148, 0.438);
+    border-radius: 30px;
+    color: rgba(53, 51, 51, 0.924);
+}
+
+
+
+.or-text{
+    top : -14px;
+    left: 45%;
+    
+}
+
+.auth-hover-1:hover{
+    background: rgba(124, 122, 122, 0.061);
+    transition: background-color 0.2s ease-in-out;
+
+}
+
+.auth-hover-2:hover{
+    background: #86c7f0c9;
+}
+
+.auth-hover-3:hover{
+    background: #9ed1f1c9;
+}

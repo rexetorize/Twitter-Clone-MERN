@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-twitter{
+    background-color: #1DA1F3;
+}
+
+.text-twitter{
+    color: #1DA1F3;
+}
+
+.bt{
+    border-top: 1px solid #d3d3d38e
+}
+
+.bb{
+    border-bottom: 1px solid #d3d3d38e
+}
+
+.br{
+    border-right: 1px solid #d3d3d38e
+}
+
+.bl{
+    border-left: 1px solid #d3d3d38e
+}

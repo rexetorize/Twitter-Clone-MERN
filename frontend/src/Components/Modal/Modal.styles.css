@@ -1,0 +1,16 @@
+.modal{
+    background-color: rgba(128, 128, 128, 0.726);
+}
+
+.modal-size-lg
+{
+    width: 40%;
+    height: 60%;
+}
+
+.modal-size-sm
+{
+    width: 90%;
+    height: 60%;
+}
+
